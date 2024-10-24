@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\bin\Debug\net8.0\StellarLifecycleSimulator.exe
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\bin\Debug\net8.0\StellarLifecycleSimulator.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\bin\Debug\net8.0\StellarLifecycleSimulator.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\bin\Debug\net8.0\StellarLifecycleSimulator.dll
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\bin\Debug\net8.0\StellarLifecycleSimulator.pdb
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.dll
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\refint\StellarLifecycleSimulator.dll
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.pdb
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\StellarLifecycleSimulator.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\StellarLifecycleSimulator\obj\Debug\net8.0\ref\StellarLifecycleSimulator.dll
